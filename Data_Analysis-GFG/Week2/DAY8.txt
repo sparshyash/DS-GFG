@@ -1,0 +1,16 @@
+Stats : Statistics helps us collect, understand and make sense of data. From spotting trends to making predictions, statistics gives us the tools to turn raw numbers into useful insights.
+
+Basic Statistical Terms
+1. Data: Data refers to facts, numbers or observations collected for analysis. It can be anything from customer purchase records to temperature readings. Data is the raw material that statisticians and data scientists work with to uncover patterns and insights.
+
+2. Variable : Variables are the building blocks of statistical analysis. They help us define what we’re measuring and how we’ll analyze it. Variables are classified into two main types:
+
+Quantitative Variables: Numerical data that can be measured (e.g., age, income, temperature).
+Qualitative Variables: Categorical data that describes qualities (e.g., gender, color, product type).
+3. Population: Complete set of individuals, objects or data points of interest in a study.
+
+4. Sample : Subset of the population selected for analysis. It’s used when studying the entire population is impossible or unnecessary. For instance, instead of measuring the height of every adult in a country, you might measure the height of 1,000 adults and use that data to infer information about the entire population.
+
+5. Parameter: Numerical value that describes a characteristic of a population. For example, the average income of all households in a city is a parameter. Parameters are often unknown and are estimated using sample data.
+
+6. Statistic: Numerical value that describes a characteristic of a sample. For example, the average income of 100 households surveyed in a city is a statistic. Statistics are used to estimate parameters and make inferences about populations.
