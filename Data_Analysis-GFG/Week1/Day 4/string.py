@@ -60,10 +60,15 @@ print(s * 3)
 
 name = "Alice"
 age = 22
-print(f"Name: {name}, Age: {age}")
+print(f"Name: {name}, Age: {age}")  # F - strings
 
 s = "My name is {} and I am {} years old.".format("Alice", 22) 
 print(s)
+
+a=False
+b=True
+
+print(f"{str(a and b).lower()} {str(a or b).lower()} {str(not a).lower()}")
 
 s = "GeeksforGeeks" 
 print("Geeks" in s) 

@@ -41,16 +41,18 @@ print(a <= b)
 
 a = True
 b = False
-print(a and b)
+print(a and b)  # Logical Operators 
 print(a or b)
 print(not a)
+
+print(f"{str(a and b).lower()} {str(a or b).lower()} {str(not a).lower()}")
 
 # Bitwise Operators 
 
 a = 10
 b = 4
 
-print(a & b)
+print(a & b)  # Bitwise Operators 
 print(a | b)
 print(~a)
 print("a XOR b:", a ^ b)  # XOR  different pe 1 , same pe 0
